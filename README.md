@@ -13,7 +13,7 @@ Can Tho University, Vietnam 🇻🇳
 - Emerging Markets
 
 🤖 Current Projects
-- Meta-analysis on internationalization–performance relationship (1970–2026)
+- Meta-analysis on internationalization–performance relationship (1978–2026)
 - WBES-based international business research
 - Open science and reproducible research workflows
 
