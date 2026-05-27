@@ -1,16 +1,30 @@
-## Hi there 👋
+Bonjour à tous!
 
-<!--
-**thuyhuongctu-cell/thuyhuongctu-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Huong (Do Thuy Huong)
 
-Here are some ideas to get you started:
+PhD Candidate in Business Administration  
+Can Tho University, Vietnam 🇻🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌏 Research Interests
+- Internationalization Strategy
+- Firm Performance
+- SME Internationalization
+- Meta-analysis
+- Emerging Markets
+
+🤖 Current Projects
+- Meta-analysis on internationalization–performance relationship (1970–2026)
+- WBES-based international business research
+- Open science and reproducible research workflows
+
+🔎 Academic Profiles
+- ORCID: https://orcid.org/0000-0002-7711-2487
+- Google Scholar: https://scholar.google.com/citations?user=jSvAVnsAAAAJ
+- ResearchGate: https://www.researchgate.net/profile/Do-Thuy-Huong
+- OSF: https://osf.io/m25qs/
+
+🔑 Methods
+- Meta-analysis
+- Quantitative Research
+- Panel Data
+- PRISMA 2020
