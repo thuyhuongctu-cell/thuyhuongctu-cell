@@ -88,8 +88,7 @@ I'm enthusiastic about:
 ## 📫 Get in Touch
 
 - 💼 **University**: Can Tho University, Vietnam
-- 📧 **Email**: [Your email here]
-- 🐦 **Twitter/X**: [Your handle here]
+- 📧 **Email**: [thuyhuongctu@gmail.com](mailto:thuyhuongctu@gmail.com)
 - 💬 **ResearchGate**: [Direct message available](https://www.researchgate.net/profile/Do-Thuy-Huong)
 
 ---
